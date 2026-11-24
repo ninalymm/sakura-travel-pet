@@ -1,0 +1,6 @@
+- insert:
+    - id: sakura-travel-pet
+      name: '@ninalym13/sakura-travel-pet'
+      config:
+        provider: deepseek-account
+        model: deepseek-v4-pro

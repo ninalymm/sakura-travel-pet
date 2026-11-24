@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Sakura Travel Pet",
+    "zh": "樱旅小精灵"
+  },
+  "description": {
+    "en": "A draggable animated pet that recommends one local food and one local tourist spot every day based on your location. The mascot changes every week.",
+    "zh": "一个可拖动的动画小精灵：根据定位每天推荐一道当地美食和一个景点，角色每周自动更换。"
+  },
+  "metadata": {
+    "categories": {},
+    "labels": {},
+    "sortKeys": {}
+  },
+  "plugins": [
+    {
+      "name": "@ninalym13/sakura-travel-pet",
+      "title": {
+        "en": "Sakura Travel Pet",
+        "zh": "樱旅小精灵"
+      },
+      "description": {
+        "en": "A draggable animated pet that recommends one local food and one local tourist spot every day based on your location. The mascot changes every week.",
+        "zh": "一个可拖动的动画小精灵：根据定位每天推荐一道当地美食和一个景点，角色每周自动更换。"
+      },
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiIgdmlld0JveD0iMCAwIDM2IDM2Ij4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE3IiByPSIxMSIgZmlsbD0iI2ZmZTlkYyIvPgogIDxwYXRoIGQ9Ik0gNyAxNyBBIDExIDExIDAgMCAxIDI5IDE3IFEgMjkgMTIgMjQgMTEgUSAxOCA5LjUgMTIgMTEgUSA3IDEyIDcgMTcgWiIgZmlsbD0iI2Y0YTdiOSIvPgogIDxwb2x5Z29uIHBvaW50cz0iMTgsMyAxOS40LDYuNCAyMyw2LjQgMjAuMiw4LjQgMjEuMiwxMS44IDE4LDkuNiAxNC44LDExLjggMTUuOCw4LjQgMTMsNi40IDE2LjYsNi40IiBmaWxsPSIjZmZkMjNmIi8+CiAgPGNpcmNsZSBjeD0iMTQuNSIgY3k9IjE5IiByPSIxLjUiIGZpbGw9IiM0ZjNhMzUiLz4KICA8Y2lyY2xlIGN4PSIyMS41IiBjeT0iMTkiIHI9IjEuNSIgZmlsbD0iIzRmM2EzNSIvPgogIDxwYXRoIGQ9Ik0gMTUuNSAyMi41IFEgMTggMjUgMjAuNSAyMi41IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YTRhM2EiIHN0cm9rZS13aWR0aD0iMS40IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjIyLjUiIHI9IjEuMyIgZmlsbD0iI2ZmOWZiMCIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iMjQiIGN5PSIyMi41IiByPSIxLjMiIGZpbGw9IiNmZjlmYjAiIG9wYWNpdHk9IjAuNiIvPgo8L3N2Zz4K",
+      "author": "ninalym13",
+      "homepage": "https://www.npmjs.com/package/@ninalym13/sakura-travel-pet",
+      "metadata": {
+        "keywords": [
+          "deepseek-harness",
+          "dsh",
+          "plugin",
+          "pet",
+          "travel",
+          "food",
+          "attraction"
+        ],
+        "labels": [],
+        "sortKeys": {}
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1795530512,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Sakura Travel Pet",
+    "description": "A draggable animated pet that recommends one local food and one local tourist spot every day based on your computer's location. The mascot changes every week. Set a city in the plugin config (config.city) as a location fallback."
+  }
+}
